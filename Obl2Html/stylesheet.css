@@ -1,0 +1,18 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, table, tr, td, span, div {
+    font-family: Arial, Helvetica, Sans-Serif;
+}
+
+.toptekst {
+    font-size: 80%;
+    background: #FFFFCC;
+    color: black;
+    border-width: 0;
+    width: 100%;
+}
+
+div.center {
+    text-align: center;
+}
+tr {
+    vertical-align: top;
+}
